@@ -1,0 +1,14 @@
+{
+  "name": "Flappy-svg",
+  "description": "Flappy Bird in SVG",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/icon-128.png"
+  },
+  "developer": {
+    "name": "Fossasia",
+    "url": "http://fossasia.org/"
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": true }
+}
